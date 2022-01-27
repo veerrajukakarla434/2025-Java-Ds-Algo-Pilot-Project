@@ -103,11 +103,19 @@ age[0], age[1], age[2], age[3],......... age[98], age[99].
 
 * **6) Merging:**  When two lists List A and List B of size M and N respectively, of similar type of elements, clubbed or joined to produce the third list, List C of size (M+N), then this process is called merging
 
-![1*ipkeWQ_Lb0lbkhB8rigxTA](https://miro.medium.com/max/596/1*ipkeWQ_Lb0lbkhB8rigxTA.png "1*ipkeWQ_Lb0lbkhB8rigxTA")
+#### What is an Algorithm?
 
-![mcs2017020063ta](https://csdl-images.computer.org/mags/cs/2017/02/figures/mcs2017020063ta.gif "mcs2017020063ta")
+* An algorithm is a process or a set of rules required to perform calculations or some other problem-solving operations especially by a computer. The formal definition of an algorithm is that it contains the finite set of instructions which are being carried in a specific order to perform the specific task. It is not the complete program or code; it is just a solution (logic) of a problem, which can be represented either as an informal description using a Flowchart or Pseudocode.
 
-#### Big O Notation
-Reference : https://medium.com/@yk392/big-o-notation-e35e17febc05
+#### Characteristics of an Algorithm
+* The following are the characteristics of an algorithm:
 
-![alg](https://github.com/veerrajukakarla434/VRK-DataStructures-Algorithms/blob/master/alg.JPG "alg")
+* **Input:** An algorithm has some input values. We can pass 0 or some input value to an algorithm.
+* **Output:** We will get 1 or more output at the end of an algorithm.
+* **Unambiguity:** An algorithm should be unambiguous which means that the instructions in an algorithm should be clear and simple.
+* **Finiteness:** An algorithm should have finiteness. Here, finiteness means that the algorithm should contain a limited number of instructions, i.e., the instructions should be countable.
+* **Effectiveness:** An algorithm should be effective as each instruction in an algorithm affects the overall process.
+* **Language independent:**  An algorithm must be language-independent so that the instructions in an algorithm can be implemented in any of the languages with the same output.
+
+Reference :  https://www.javatpoint.com/data-structure-algorithm
+

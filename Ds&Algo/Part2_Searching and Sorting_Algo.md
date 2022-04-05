@@ -1,6 +1,7 @@
 # Searching and Sorting
 
 * #### Linear Search
+* #### Binary Search
 
 
 ## Linear Search
@@ -50,4 +51,7 @@ class GFG
 
 ```
 ![image](https://user-images.githubusercontent.com/40323661/161803675-4b8bd3b5-b4c8-4b1d-8a0e-0d270ddf98ae.png)
+
+## Binary Search
+
 

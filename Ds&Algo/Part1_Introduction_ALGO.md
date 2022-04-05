@@ -96,6 +96,26 @@ public class GFG {
 
 ![image](https://user-images.githubusercontent.com/40323661/161799555-9eea7703-6346-4f9f-aff8-460a68583665.png)
 
+![image](https://user-images.githubusercontent.com/40323661/161800060-574d3c32-a205-4bd5-a05f-1e89ef67d2d1.png)
+
+![image](https://user-images.githubusercontent.com/40323661/161800243-59ba5943-8f37-4fa8-88c4-7c8844fac2d8.png)
+
+* Reference Link : https://www.geeksforgeeks.org/analysis-of-algorithms-set-3asymptotic-notations/
+
+## Analysis of Algorithms | Set 4, (Analysis of Loops)  Set 4 (Solving Recurrences),  Set 5 (Amortized Analysis Introduction)
+
+* RefLink : https://www.geeksforgeeks.org/analysis-of-algorithms-set-4-analysis-of-loops/
+* https://www.geeksforgeeks.org/analysis-algorithm-set-5-amortized-analysis-introduction/?ref=lbp
+
+## What does ‘Space Complexity’ mean?
+
+![image](https://user-images.githubusercontent.com/40323661/161801162-514b22b7-434e-4687-acd8-1dbe8300e0a5.png)
+
+* Ref: link https://www.geeksforgeeks.org/g-fact-86/?ref=lbp
+
+
+
+
 
 
 

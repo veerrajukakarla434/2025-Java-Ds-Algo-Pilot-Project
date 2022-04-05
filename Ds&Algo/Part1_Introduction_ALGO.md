@@ -80,4 +80,5 @@ public class GFG {
  ```
  ![image](https://user-images.githubusercontent.com/40323661/161795299-e087b7f8-a267-487a-a7bf-04052c9eabe5.png)
 
+![image](https://user-images.githubusercontent.com/40323661/161795521-0e540dbb-328a-4457-b603-02dd3cce6284.png)
 

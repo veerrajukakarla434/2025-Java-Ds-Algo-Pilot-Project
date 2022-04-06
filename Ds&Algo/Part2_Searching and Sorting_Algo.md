@@ -61,5 +61,6 @@ class GFG
 
 ![image](https://user-images.githubusercontent.com/40323661/161908780-72f83e81-270f-4f83-ac8f-8ae38e277ae7.png)
 
+![image](https://user-images.githubusercontent.com/40323661/161909071-cb86dfe7-02c6-451e-bc43-6aa5fd31fbe1.png)
 
 

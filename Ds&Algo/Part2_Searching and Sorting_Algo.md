@@ -53,5 +53,13 @@ class GFG
 ![image](https://user-images.githubusercontent.com/40323661/161803675-4b8bd3b5-b4c8-4b1d-8a0e-0d270ddf98ae.png)
 
 ## Binary Search
+![image](https://user-images.githubusercontent.com/40323661/161907952-8e9ac669-c619-49f8-b662-3542ba0ed4b1.png)
+
+![image](https://user-images.githubusercontent.com/40323661/161907999-339759da-0c9e-4645-a0f8-d36be245a48f.png)
+
+![image](https://user-images.githubusercontent.com/40323661/161908647-6d24ecec-f18d-4784-bf19-c5c2d7d7b600.png)
+
+![image](https://user-images.githubusercontent.com/40323661/161908780-72f83e81-270f-4f83-ac8f-8ae38e277ae7.png)
+
 
 

@@ -1,7 +1,8 @@
 # Searching and Sorting
 
-* #### Linear Search
-* #### Binary Search
+* **Linear Search**
+* **Binary Search**
+* **Selection Sort**
 
 
 ## Linear Search
@@ -160,6 +161,10 @@ public class BinarySearch1 {
 
 }
 ```
+
+* If Array is unsorted for binary search we can use one of the sorting algo or arrays.sort() method.
+
+
 
 
 

@@ -164,6 +164,12 @@ public class BinarySearch1 {
 
 * If Array is unsorted for binary search we can use one of the sorting algo or arrays.sort() method.
 
+## Selection Sort
+
+![image](https://user-images.githubusercontent.com/40323661/162649392-1687a9f9-d113-4fcf-ab56-887880fc1961.png)
+
+![image](https://user-images.githubusercontent.com/40323661/162649430-b51e09fa-f684-40db-bd63-e9405917cf5d.png)
+
 
 
 

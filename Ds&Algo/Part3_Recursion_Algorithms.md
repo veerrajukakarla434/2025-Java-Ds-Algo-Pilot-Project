@@ -32,6 +32,24 @@
         System.out.println(number + " factorial = " + result);
     }
 }
+
+  OR
+  
+  
+   static int factorial( int n ) {
+        if (n == 1)  // termination condition
+            return 1; //
+        else
+            return n * factorial(n-1);  recursive call
+    }
+
+    public static void main(String[] args) {
+        int number = 4, result;
+        result = factorial(number);
+        System.out.println(number + " factorial = " + result);
+    }
+  
+  
  ```
  
 ![image](https://user-images.githubusercontent.com/40323661/168845604-608e9a56-4094-4b61-b6c9-9306decd97a4.png)
@@ -42,3 +60,7 @@
 
 * On the other hand, a recursive solution is much simpler and takes less time to write, debug and maintain.
   
+![image](https://user-images.githubusercontent.com/40323661/168847911-e863c2ae-cb8c-46a9-ba13-39d203360c5e.png)
+   
+#### The program to implement the Fibonacci series is given below:
+

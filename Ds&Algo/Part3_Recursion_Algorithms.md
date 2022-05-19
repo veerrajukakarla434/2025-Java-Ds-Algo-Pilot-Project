@@ -87,3 +87,41 @@ public class Fibonacci1 {
 	}
 	}
 ```
+#### Reverse String Recursion Java
+
+* Given a string “Hello” we have to reverse it so that the resultant string is “olleH”.
+
+* This is done using recursion. Starting from the last character in the string we recursively print each character until all the characters in the string are exhausted.
+
+```Java
+
+package com.veer.algo.recursion;
+
+public class String_Reverse {
+
+	public static void main(String[] args) {
+		String inputstr = "SoftwareTestingHelp";
+		System.out.println("The given string: " + inputstr);
+		String_Reverse obj = new String_Reverse();
+		System.out.print("The reversed string: ");
+		obj.reverseString(inputstr);
+
+	}
+
+	// recursive method to reverse a given string
+	void reverseString(String str) {
+		// base condition; return if string is null or with 1 or less character
+		if ((str == null) || (str.length() <= 1))
+			System.out.println(str);
+		else {
+			// recursively print each character in the string from the end
+			System.out.print(str.charAt(str.length() - 1));
+			reverseString(str.substring(0, str.length() - 1));
+		}
+	}
+}
+
+```
+![image](https://user-images.githubusercontent.com/40323661/169180783-9bc2404f-19ff-4f8f-a998-ce9808187c18.png)
+
+

@@ -142,6 +142,28 @@ Out Put :Factorial of 4 is: 24
 
 ```
 
+#### Sum of natural numbers using recursion
+
+class GFG
+{
+ 
+    // Returns sum of first
+    // n natural numbers
+    public static int recurSum(int n)
+    {
+        if (n <= 1)
+            return n;
+        return n + recurSum(n - 1);
+    }
+     
+    // Driver code
+    public static void main(String args[])
+    {
+        int n = 5;
+        System.out.println(recurSum(n));
+    }
+}
+ 
 #### Reverse String Recursion Java
 
 * Given a string “Hello” we have to reverse it so that the resultant string is “olleH”.
@@ -178,5 +200,6 @@ public class String_Reverse {
 
 ```
 ![image](https://user-images.githubusercontent.com/40323661/169180783-9bc2404f-19ff-4f8f-a998-ce9808187c18.png)
+
 
 

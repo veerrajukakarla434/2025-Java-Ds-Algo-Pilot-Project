@@ -87,6 +87,61 @@ public class Fibonacci1 {
 	}
 	}
 ```
+
+* OR
+
+```java
+package com.vrk.core.programs;
+
+public class FibonacciExample2 {
+	static int n1=0, n2=1, n3=0, count=10;
+	public static void main(String[] args) {
+		
+		System.out.print(n1+" "+n2); //printing 0 and 1    
+		printFibonacci(count-2); //n-2 because 2 numbers are already printed   
+	}
+	
+	public static void printFibonacci(int count) {
+		
+		if(count>0) {
+		n3=n1+n2;
+		n1=n2;
+		n2=n3;
+		System.out.print(" "+n3);
+		printFibonacci(count-1);
+		}
+		
+	}
+	
+	
+}
+OutPut:
+0 1 1 2 3 5 8 13 21 34
+```
+#### Factorial Program using recursion in java
+
+```java
+package com.vrk.core.programs;
+
+public class FactorialExample2 {
+
+	static int factorial(int n){    
+		if (n == 0)    
+			return 1;    
+		else    
+			return(n * factorial(n-1));    
+	}    
+	public static void main(String args[]){  
+		int fact=1;  
+		int number=4;//It is the number to calculate factorial    
+		fact = factorial(number);   
+		System.out.println("Factorial of "+number+" is: "+fact);    
+	}  
+}  
+Out Put :Factorial of 4 is: 24
+
+```
+
 #### Reverse String Recursion Java
 
 * Given a string “Hello” we have to reverse it so that the resultant string is “olleH”.

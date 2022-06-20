@@ -7,7 +7,10 @@
 
 * **A data structure is a particular way of organizing data in a computer so that it can be used effectively. The idea is to reduce the space and time complexities of different tasks. Below is an overview of some popular linear data structures.**
 
-## Array Data Structure
+
+
+
+# Array Data Structure
 
 * The array is a data structure used to store homogeneous elements at contiguous locations. The size of an array must be provided before storing data. 
 
